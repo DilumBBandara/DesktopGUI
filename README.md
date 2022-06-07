@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/DilumBBandara/DesktopGUI"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge&logo="></a>
 </p>
-<br><a href="https://github.com/DilumBBandara/DesktopGUI"><img src="https://github.com/DilumBBandara/DilumBBandara/blob/main/IMG_20220607_191930_129.jpg">
+<br><a href="https://github.com/DilumBBandara/DesktopGUI"><img src="https://github.com/DilumBBandara/DilumBBandara/blob/main/IMG_20220607_191930_129.jpg"></a>
 
 ## AVAILABLE ON :
 
