@@ -21,6 +21,7 @@
  * <code>python</code>
  * <code>git</code>
  * <code>ruby</code>
+ * <code>figlet</code>
  * <code>lolcat</code>
  * <code>internet</code>
  * <code><a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android&hl=en&gl=US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dvnc+viewer&pcampaignid=APPU_1_e3OfYsnJLOrD3LUPqYqSqAY">VNC Viewer</a></code>
@@ -31,6 +32,7 @@
   * apt install git -y
   * apt install python -y
   * apt install ruby -y
+  * apt install figlet -y
   * gem install lolcat
   * git clone https://github.com/DilumBBandara/DesktopGUI.git
   * cd DesktopGUI
