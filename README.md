@@ -3,7 +3,7 @@
 <a href="https://github.com/DilumBBandara/DesktopGUI"><img title="ToolName" src="https://img.shields.io/badge/DesktopGUI-blue?style=for-the-badge&logo="></a>
 </p>
 <p align="center">
-<a>https://github.com/DilumBBandara/DesktopGUI<img title="Version" src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge&logo="></a>
+<a href="https://github.com/DilumBBandara/DesktopGUI"><img title="Version" src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge&logo="></a>
 </p>
 <br><img src="https://github.com/DilumBBandara/DilumBBandara/blob/main/IMG_20220607_191930_129.jpg">
 
